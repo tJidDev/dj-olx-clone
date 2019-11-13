@@ -1,0 +1,29 @@
+item :
+  - title
+  - brand
+  - price
+  - condition
+  - description
+  - item type - (category)
+  - images
+
+adv :
+  - date time
+  - ad id
+
+owner:
+  - city
+  - phone
+
+feedback
+
+contact
+
+functions:
+  - login - register - forget pass
+  - post crud?
+  - filter
+  - search
+
+
+category:
